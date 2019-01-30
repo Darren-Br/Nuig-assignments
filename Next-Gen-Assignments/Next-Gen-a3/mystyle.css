@@ -1,0 +1,24 @@
+h1
+{
+color: white;
+font-size: 48px
+
+}
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+table{
+	width: 100%;
+}
+
+p
+{
+	letter-spacing: 3px;
+	text-align: left;
+	font-style: italic;
+}
+ul
+{
+	font-style: italic
+}
